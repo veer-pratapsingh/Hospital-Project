@@ -1,2 +1,2 @@
 # Hospital-Project
-by Veer Pratap Singh
+Veer Pratap Singh
